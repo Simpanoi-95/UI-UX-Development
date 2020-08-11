@@ -1,0 +1,76 @@
+body{
+	background-image: url(https://www.askdrsears.com/wp-content/uploads/2013/08/7-reason-vegetables-good-ads-fb.jpg);
+     background-repeat: no-repeat; 
+     background-attachment: fixed;  
+     background-size: 100% 100%; 
+     color: #222;
+     font-family: Arial,helvetica, san-serif;
+}
+header{
+	background-color:white;
+	font-color:white;
+}
+header nav ul a:hover {
+	color:cyan;
+} 
+
+header nav ul{
+max-width: 1200px;
+margin: 0 auto;
+overflow: auto;
+
+}
+
+header nav  li{
+	list-style: none;
+	float: left;
+
+}
+header nav ul li a{
+	color: black;
+	padding: 20px;
+	float: left;
+	font-size: 18px;
+	text-decoration: none;
+}
+.container{
+	padding: 40px;
+	/*margin:0 auto ;*/
+	
+	
+    
+	background-color:#ccc;
+	/*padding: 40px;*/
+	/*margin:0 auto */
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color:black;
+   text-align: center;
+}
+header nav ul li a:active{
+	color:yellow;
+}
+header nav ul{
+	margin: 0px;
+	padding:0px;
+}
+
+img{
+	width:200px;
+	height: 200px;
+	padding:30px;
+	float:left;
+}
+
+h1,h3{
+	text-align: center;
+}
+
+
+/*.container h1{
+	padding: 0;
+	margin: 0;
+
+}*/
